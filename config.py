@@ -1,1 +1,0 @@
-DB_NAME = 'cleaning_company.db'
